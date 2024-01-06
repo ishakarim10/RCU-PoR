@@ -209,7 +209,7 @@ svg {
   .rotating-text {
     font-size: 5vw; /* Adjust the font size as needed */
     color: #ff0000; /* Adjust the color as needed */
-    animation: rotateText 4s linear infinite;
+    animation: rotateText 2s linear infinite;
     font-family: 'Arial', sans-serif;
   }
 
